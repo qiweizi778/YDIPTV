@@ -91,7 +91,7 @@ rtp://239.255.30.97:8231
 rtp://239.255.30.93:8231
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="地方频道",凤凰卫视
 rtp://239.255.30.50:8231
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="地图频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="地方频道",凤凰资讯
 rtp://239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="地方频道",凤凰香港
 rtp://239.255.30.123:8231
