@@ -273,7 +273,7 @@ rtp://239.255.30.186:8231
 rtp://239.255.30.187:8231
 #EXTINF:-1 tvg-name="爱大剧" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="综艺频道",爱大剧
 rtp://239.255.30.188:8231
-#EXTINF:-1 tvg-name="解密" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="地方频道",解密
+#EXTINF:-1 tvg-name="解密" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="综艺频道",解密
 rtp://239.255.30.243:8231
 #EXTINF:-1 tvg-name="军事" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="综艺频道",军事
 rtp://239.255.30.244:8231
