@@ -189,7 +189,7 @@ http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000101/index.m3u8?channel
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000102/index.m3u8?channel-id=newtv&Contentid=9900000102&livemode=1
 #EXTINF:-1 group-title="综艺频道",怡伴健康
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000103/index.m3u8?channel-id=newtv&Contentid=9900000103&livemode=1
-#EXTINF:-1 group-title="付费频道",动作电影
+#EXTINF:-1 group-title="综艺频道",动作电影
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000106/index.m3u8?channel-id=newtv&Contentid=9900000106&livemode=1
 #EXTINF:-1 group-title="综艺频道",军旅剧场
 http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000107/index.m3u8?channel-id=newtv&Contentid=9900000107&livemode=1
