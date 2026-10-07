@@ -39,9 +39,9 @@ rtp://239.255.30.96:8231
 rtp://239.255.29.54:8231
 #EXTINF:-1 tvg-name="甘肃卫视高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="卫视频道",甘肃卫视高清
 rtp://239.255.30.249:8231
-#EXTINF:-1 tvg-name="文化影视高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="地方频道",文化影视高清
+#EXTINF:-1 tvg-name="文化影视高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="甘肃频道",文化影视高清
 rtp://239.255.30.250:8231
-#EXTINF:-1 tvg-name="公共应急高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="地方频道",公共应急高清
+#EXTINF:-1 tvg-name="公共应急高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="甘肃频道",公共应急高清
 rtp://239.255.30.251:8231
 #EXTINF:-1 tvg-name="甘肃科教高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="甘肃频道",甘肃科教高清
 rtp://239.255.30.252:8231
@@ -165,7 +165,7 @@ rtp://239.255.29.5:8231
 rtp://239.255.29.70:8231
 #EXTINF:-1 tvg-name="新疆卫视高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="卫视频道",新疆卫视高清
 rtp://239.255.29.71:8231
-#EXTINF:-1 tvg-name="兵团卫视高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="新疆频道",兵团卫视高清
+#EXTINF:-1 tvg-name="兵团卫视高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="卫视频道",兵团卫视高清
 rtp://239.255.29.72:8231
 #EXTINF:-1 tvg-name="青海卫视高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="卫视频道",青海卫视高清
 rtp://239.255.29.73:8231
