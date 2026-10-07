@@ -53,8 +53,6 @@ http://39.134.32.167:6610/000000001000PLTV/88888888/224/3221226819/index.m3u8
 http://39.134.32.167:6610/000000001000PLTV/88888888/224/3221226616/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://github.com/qiweizi778/YDIPTV/blob/main/logo/cctv-16.png" group-title="央视",CCTV-16
 http://39.134.32.167:6610/000000001000PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1 tvg-logo="https://gh-proxy.org/https://github.com/qiweizi778/YDIPTV/blob/main/logo/cctv-17.png" group-title="央视",CCTV-17
-http://39.134.32.167:6610/000000001000PLTV/88888888/224/3221226823/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://github.com/qiweizi778/YDIPTV/blob/main/logo/cctv-5+.png" group-title="央视",CCTV-5+
 http://39.134.32.167:6610/000000001000PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="https://gh-proxy.org/https://github.com/qiweizi778/YDIPTV/blob/main/logo/北京卫视4k.png" group-title="4K频道",北京卫视4K
