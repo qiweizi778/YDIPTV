@@ -89,7 +89,6 @@ rtp://239.255.30.93:8231
 rtp://239.255.30.97:8231
 #EXTINF:-1 tvg-name="合水综合" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="地方频道",合水综合
 rtp://239.255.30.93:8231
-#EXTM3U
 #EXTINF:-1 group-title="地方频道",宕昌综合
 rtp://239.255.29.10:8231
 #EXTINF:-1 group-title="地方频道",嘉峪关综合
