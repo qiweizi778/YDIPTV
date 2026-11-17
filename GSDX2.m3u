@@ -111,9 +111,9 @@ rtp://239.255.30.141:8231
 rtp://239.255.30.142:8230
 #EXTINF:-1 group-title="地方频道",阿克塞综合
 rtp://239.255.30.161:8231
-#EXTINF:-1 group-title="地方频道",地方台2
+#EXTINF:-1 group-title="地方频道",平凉综合
 rtp://239.255.30.162:8231
-#EXTINF:-1 group-title="地方频道",地方台3
+#EXTINF:-1 group-title="地方频道",庆阳综合
 rtp://239.255.30.165:8231
 #EXTINF:-1 group-title="地方频道",地方台4
 rtp://239.255.30.175:8231
