@@ -137,6 +137,10 @@ rtp://239.255.30.213:8231
 rtp://239.255.30.215:8231
 #EXTINF:-1 group-title="地方频道",镇原综合
 rtp://239.255.30.218:8231
+#EXTINF:-1 group-title="地方频道",环县综合
+rtp://239.255.30.191:8231
+#EXTINF:-1 group-title="地方频道",正宁综合
+rtp://239.255.30.219:8231
 #EXTINF:-1 group-title="地方频道",宁县综合
 rtp://239.255.30.220:8231
 #EXTINF:-1 group-title="地方频道",成县综合
@@ -287,6 +291,8 @@ rtp://239.255.30.38:8231
 rtp://239.255.30.39:8231
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="综艺频道",嘉佳卡通
 rtp://239.255.30.65:8231
+#EXTINF:-1 group-title="综艺频道",五星体育
+rtp://239.255.30.169:8231
 #EXTINF:-1 tvg-name="游戏风云高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="综艺频道",游戏风云高清
 rtp://239.255.29.20:8231
 #EXTINF:-1 tvg-name="东方购物上星高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="综艺频道",东方购物上星高清
