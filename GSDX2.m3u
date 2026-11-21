@@ -195,6 +195,14 @@ rtp://239.255.29.78:8231
 rtp://239.255.29.80:8231
 #EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/4K.png" group-title="卫视频道",山东卫视4K
 rtp://239.255.29.81:8231
+#EXTINF:-1 group-title="卫视频道",贵州卫视4K[3840*2160]
+rtp://239.255.29.86:8231
+#EXTINF:-1 group-title="卫视频道",辽宁卫视4K[3840*2160]
+rtp://239.255.29.87:8231
+#EXTINF:-1 group-title="卫视频道",重庆卫视4K[3840*2160]
+rtp://239.255.29.88:8231
+#EXTINF:-1 group-title="卫视频道",江西卫视4K[3840*2160]
+rtp://239.255.29.89:8231
 #EXTINF:-1 tvg-name="东方卫视高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="卫视频道",东方卫视高清
 rtp://239.255.30.130:8231
 #EXTINF:-1 tvg-name="湖南卫视高清" tvg-logo="https://live.fanmingming.com/tv/.png" group-title="卫视频道",湖南卫视高清
